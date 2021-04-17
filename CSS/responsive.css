@@ -1,0 +1,14 @@
+@media all and (max-width: 1200px) {
+    
+}
+@media all and (max-width: 1020px){
+    .rw-container{
+        padding:0 1rem ;
+    }
+}
+
+@media all and (max-width: 820px){
+    .rw-header-text h1{
+        font-size: 2rem;
+    }
+}
